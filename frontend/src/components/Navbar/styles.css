@@ -1,0 +1,47 @@
+header {    
+    height: 60px;
+    background-color: var(--color-primary);
+    display: flex;   
+    align-items: center;    
+}
+
+.container {
+    position: absolute;
+    left: 33px;
+    top: 14px;
+    margin: 0;
+    
+}
+.dsmovie-nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    font-weight: 400;
+           
+}
+
+/*--DSMovie--*/
+
+.dsmovie-nav-content h1 {
+    margin: 0;
+    font-size: 24px;            
+    font-weight: 700;          
+}
+
+.dsmovie-contact-container {
+    display: flex;
+    align-items: center;
+      
+}
+
+/* /devsuperior */
+
+.dsmovie-contact-link {
+    margin: 0 0 0 10px;
+    font-weight: 400, regular;
+    font-size: 12px;        
+}
+
+
+
