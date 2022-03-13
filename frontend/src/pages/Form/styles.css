@@ -20,6 +20,7 @@
 .dsmovie-form-btn-container {
     display: flex;
     justify-content: center;
+   
 }
 
 .dsmovie-movie-card-image {
@@ -46,7 +47,7 @@
 }
 
 .dsmovie-btn {
-    background-color: var(--color-primary);
+    background-color: var(--color-general);
     font-size: 14px;
     font-weight: 700;
     height: 40px;
